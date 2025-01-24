@@ -4,7 +4,9 @@ My name is Glow, I am an editor on TikTok (@glowcappin) and looking to further p
 
 ### Languages 🖥️
 - C#
+- Lua
 - HTML/CSS
+- React
 
 ### Past Projects 🕥
 - IW4 Console, a movie making tool for MW2: https://ardiium.gumroad.com/l/IW4TOOL?layout=profile
