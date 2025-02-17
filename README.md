@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Glow, I am an editor on TikTok (@glowcappin) and looking to further push myself into the space of programming. I've been coding on and off since 2020.
+My name is Glow, I am an editor on TikTok (@glowcappin) and looking to further push myself into the space of programming. I've been coding since 2020.
 
 ### Languages 🖥️
 - C#
@@ -15,4 +15,4 @@ My name is Glow, I am an editor on TikTok (@glowcappin) and looking to further p
 
 ### Current Projects ⌚
 
-- ???
+- ClickRP, an all-new FiveM server with a custom framework built for true RP. https://clickrp.org
